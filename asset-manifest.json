@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game_3_raya/static/css/main.bd31e5aa.css",
+    "main.js": "/game_3_raya/static/js/main.b80307fc.js",
+    "index.html": "/game_3_raya/index.html",
+    "main.bd31e5aa.css.map": "/game_3_raya/static/css/main.bd31e5aa.css.map",
+    "main.b80307fc.js.map": "/game_3_raya/static/js/main.b80307fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd31e5aa.css",
+    "static/js/main.b80307fc.js"
+  ]
+}
