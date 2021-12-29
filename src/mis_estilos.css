@@ -1,0 +1,31 @@
+
+
+.casillas{
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+    font-size: 60px;
+    
+}
+.container{
+    align-items: center;
+}
+
+body{
+    background-image: url('https://pbs.twimg.com/media/D0HDKlKX0AAIgR_.png');
+}
+
+h2{
+    color: white;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.respuesta{
+    margin: 5px;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+}
